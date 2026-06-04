@@ -13,7 +13,6 @@ I'm a Computer Science graduate and IT professional from Afghanistan with experi
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MursalinMohmand&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MursalinMohmand&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
